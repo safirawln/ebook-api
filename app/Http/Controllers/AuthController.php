@@ -35,21 +35,6 @@ class AuthController extends Controller
             'token_type' => 'Bearer',
         ]);
     }
-
-    // public function me()
-    // {
-    //     $biodata = [
-    //         "nis"=> "3103119158",
-    //         "name"=> "Regina Permatasari",
-    //         "gender"=> "Male",
-    //         "phone"=>  "085869458863",
-    //         "class"=> "XII RPL 5"
-
-    //     ];
-
-    //     return $biodata;
-    // }
-
     /**
      * Show the form for creating a new resource.
      *
